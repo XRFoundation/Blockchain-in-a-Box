@@ -1,4 +1,4 @@
-FROM node:6-alpine
+FROM node:18-alpine
 MAINTAINER Kyle Bai <kyle.b@inwinstack.com>
 
 RUN apk add --no-cache git g++ make bash && \

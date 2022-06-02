@@ -1,5 +1,5 @@
 #!/bin/bash
-FROM node:16
+FROM node:18
 WORKDIR /usr/src/app
 ENV PRODUCTION=true
 EXPOSE 8080

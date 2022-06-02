@@ -1,3 +1,3 @@
-FROM node:9
+FROM node:18
 WORKDIR /app
 CMD ls -ltr && npm install && npm start
