@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@dfinity/agent": "0.11.1",
+    "@dfinity/agent": "0.12.1",
     "@dfinity/principal": "0.11.3",
     "@emotion/react": "11.9.3",
     "@emotion/styled": "11.9.3",
