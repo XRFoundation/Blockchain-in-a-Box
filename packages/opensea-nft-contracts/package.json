@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "4.6.0",
+    "@openzeppelin/contracts-upgradeable": "4.7.1",
     "@openzeppelin/truffle-upgrades": "1.15.0",
     "@truffle/hdwallet-provider": "2.0.11",
     "@types/bn.js": "5.1.0",
